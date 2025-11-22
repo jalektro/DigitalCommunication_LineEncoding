@@ -1,0 +1,22 @@
+# ModusToolbox generated folders
+build/
+deps/
+MTB_shared/
+
+# IDE metadata
+.metadata/
+*.launch
+*.log
+*.tlog
+
+# Logs
+project-creator.log
+
+# Temporary / backup files
+*.bak
+*.swp
+*.tmp
+
+# OS files
+.DS_Store
+Thumbs.db
